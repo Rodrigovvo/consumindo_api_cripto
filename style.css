@@ -1,0 +1,22 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box{
+    display: flex;
+    align-content: space-between;
+    width: fit-content;
+    border: 1px;
+    border-style: dashed;
+    border-color: thistle;
+    padding: 20px;
+    margin: 10px;
+}
